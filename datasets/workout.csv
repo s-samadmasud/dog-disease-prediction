@@ -1,0 +1,551 @@
+Unnamed: 0,disease,workout
+0,Asthma,Avoid exposure to smoke
+1,Asthma,Use air purifiers
+2,Asthma,Limit outdoor activity during pollen season
+3,Asthma,Maintain healthy weight
+4,Asthma,Provide prescribed inhalers
+5,Asthma,Minimize dust exposure
+6,Asthma,Control humidity at home
+7,Asthma,Regular vet follow-ups
+8,Asthma,Avoid aerosol sprays
+9,Asthma,Feed anti-inflammatory diets
+10,Alopecia,Provide omega-3 supplements
+11,Alopecia,Check for allergies
+12,Alopecia,Improve coat hygiene
+13,Alopecia,Avoid harsh shampoos
+14,Alopecia,Control parasites
+15,Alopecia,Use moisturizing sprays
+16,Alopecia,Provide a protein-rich diet
+17,Alopecia,Limit environmental allergens
+18,Alopecia,Ensure thyroid check-ups
+19,Alopecia,Use vet-recommended topical treatments
+20,Anemia,Maintain a balanced diet
+21,Anemia,Provide regular exercise
+22,Anemia,Keep hydration levels optimal
+23,Anemia,Schedule regular vet visits
+24,Anemia,Ensure parasite prevention
+25,Anemia,Monitor weight closely
+26,Anemia,Promote a stress-free environment
+27,Anemia,Supplement with vitamins if needed
+28,Anemia,Practice good grooming habits
+29,Anemia,Watch for any behavioral changes
+30,Arthritis,Maintain a balanced diet
+31,Arthritis,Provide regular exercise
+32,Arthritis,Keep hydration levels optimal
+33,Arthritis,Schedule regular vet visits
+34,Arthritis,Ensure parasite prevention
+35,Arthritis,Monitor weight closely
+36,Arthritis,Promote a stress-free environment
+37,Arthritis,Supplement with vitamins if needed
+38,Arthritis,Practice good grooming habits
+39,Arthritis,Watch for any behavioral changes
+40,Cancer,Maintain a balanced diet
+41,Cancer,Provide regular exercise
+42,Cancer,Keep hydration levels optimal
+43,Cancer,Schedule regular vet visits
+44,Cancer,Ensure parasite prevention
+45,Cancer,Monitor weight closely
+46,Cancer,Promote a stress-free environment
+47,Cancer,Supplement with vitamins if needed
+48,Cancer,Practice good grooming habits
+49,Cancer,Watch for any behavioral changes
+50,Carnassial Tooth Abscess,Maintain a balanced diet
+51,Carnassial Tooth Abscess,Provide regular exercise
+52,Carnassial Tooth Abscess,Keep hydration levels optimal
+53,Carnassial Tooth Abscess,Schedule regular vet visits
+54,Carnassial Tooth Abscess,Ensure parasite prevention
+55,Carnassial Tooth Abscess,Monitor weight closely
+56,Carnassial Tooth Abscess,Promote a stress-free environment
+57,Carnassial Tooth Abscess,Supplement with vitamins if needed
+58,Carnassial Tooth Abscess,Practice good grooming habits
+59,Carnassial Tooth Abscess,Watch for any behavioral changes
+60,Cataracts,Maintain a balanced diet
+61,Cataracts,Provide regular exercise
+62,Cataracts,Keep hydration levels optimal
+63,Cataracts,Schedule regular vet visits
+64,Cataracts,Ensure parasite prevention
+65,Cataracts,Monitor weight closely
+66,Cataracts,Promote a stress-free environment
+67,Cataracts,Supplement with vitamins if needed
+68,Cataracts,Practice good grooming habits
+69,Cataracts,Watch for any behavioral changes
+70,Cherry Eye,Maintain a balanced diet
+71,Cherry Eye,Provide regular exercise
+72,Cherry Eye,Keep hydration levels optimal
+73,Cherry Eye,Schedule regular vet visits
+74,Cherry Eye,Ensure parasite prevention
+75,Cherry Eye,Monitor weight closely
+76,Cherry Eye,Promote a stress-free environment
+77,Cherry Eye,Supplement with vitamins if needed
+78,Cherry Eye,Practice good grooming habits
+79,Cherry Eye,Watch for any behavioral changes
+80,Coccidia,Maintain a balanced diet
+81,Coccidia,Provide regular exercise
+82,Coccidia,Keep hydration levels optimal
+83,Coccidia,Schedule regular vet visits
+84,Coccidia,Ensure parasite prevention
+85,Coccidia,Monitor weight closely
+86,Coccidia,Promote a stress-free environment
+87,Coccidia,Supplement with vitamins if needed
+88,Coccidia,Practice good grooming habits
+89,Coccidia,Watch for any behavioral changes
+90,Congestive Heart Failure,Maintain a balanced diet
+91,Congestive Heart Failure,Provide regular exercise
+92,Congestive Heart Failure,Keep hydration levels optimal
+93,Congestive Heart Failure,Schedule regular vet visits
+94,Congestive Heart Failure,Ensure parasite prevention
+95,Congestive Heart Failure,Monitor weight closely
+96,Congestive Heart Failure,Promote a stress-free environment
+97,Congestive Heart Failure,Supplement with vitamins if needed
+98,Congestive Heart Failure,Practice good grooming habits
+99,Congestive Heart Failure,Watch for any behavioral changes
+100,Dandruff,Maintain a balanced diet
+101,Dandruff,Provide regular exercise
+102,Dandruff,Keep hydration levels optimal
+103,Dandruff,Schedule regular vet visits
+104,Dandruff,Ensure parasite prevention
+105,Dandruff,Monitor weight closely
+106,Dandruff,Promote a stress-free environment
+107,Dandruff,Supplement with vitamins if needed
+108,Dandruff,Practice good grooming habits
+109,Dandruff,Watch for any behavioral changes
+110,Degenerative Myelopathy,Maintain a balanced diet
+111,Degenerative Myelopathy,Provide regular exercise
+112,Degenerative Myelopathy,Keep hydration levels optimal
+113,Degenerative Myelopathy,Schedule regular vet visits
+114,Degenerative Myelopathy,Ensure parasite prevention
+115,Degenerative Myelopathy,Monitor weight closely
+116,Degenerative Myelopathy,Promote a stress-free environment
+117,Degenerative Myelopathy,Supplement with vitamins if needed
+118,Degenerative Myelopathy,Practice good grooming habits
+119,Degenerative Myelopathy,Watch for any behavioral changes
+120,Demodectic Mange,Maintain a balanced diet
+121,Demodectic Mange,Provide regular exercise
+122,Demodectic Mange,Keep hydration levels optimal
+123,Demodectic Mange,Schedule regular vet visits
+124,Demodectic Mange,Ensure parasite prevention
+125,Demodectic Mange,Monitor weight closely
+126,Demodectic Mange,Promote a stress-free environment
+127,Demodectic Mange,Supplement with vitamins if needed
+128,Demodectic Mange,Practice good grooming habits
+129,Demodectic Mange,Watch for any behavioral changes
+130,Ear Infection,Maintain a balanced diet
+131,Ear Infection,Provide regular exercise
+132,Ear Infection,Keep hydration levels optimal
+133,Ear Infection,Schedule regular vet visits
+134,Ear Infection,Ensure parasite prevention
+135,Ear Infection,Monitor weight closely
+136,Ear Infection,Promote a stress-free environment
+137,Ear Infection,Supplement with vitamins if needed
+138,Ear Infection,Practice good grooming habits
+139,Ear Infection,Watch for any behavioral changes
+140,Ear Mites,Maintain a balanced diet
+141,Ear Mites,Provide regular exercise
+142,Ear Mites,Keep hydration levels optimal
+143,Ear Mites,Schedule regular vet visits
+144,Ear Mites,Ensure parasite prevention
+145,Ear Mites,Monitor weight closely
+146,Ear Mites,Promote a stress-free environment
+147,Ear Mites,Supplement with vitamins if needed
+148,Ear Mites,Practice good grooming habits
+149,Ear Mites,Watch for any behavioral changes
+150,Ehrlichiosis,Maintain a balanced diet
+151,Ehrlichiosis,Provide regular exercise
+152,Ehrlichiosis,Keep hydration levels optimal
+153,Ehrlichiosis,Schedule regular vet visits
+154,Ehrlichiosis,Ensure parasite prevention
+155,Ehrlichiosis,Monitor weight closely
+156,Ehrlichiosis,Promote a stress-free environment
+157,Ehrlichiosis,Supplement with vitamins if needed
+158,Ehrlichiosis,Practice good grooming habits
+159,Ehrlichiosis,Watch for any behavioral changes
+160,Elbow Dysplasia,Maintain a balanced diet
+161,Elbow Dysplasia,Provide regular exercise
+162,Elbow Dysplasia,Keep hydration levels optimal
+163,Elbow Dysplasia,Schedule regular vet visits
+164,Elbow Dysplasia,Ensure parasite prevention
+165,Elbow Dysplasia,Monitor weight closely
+166,Elbow Dysplasia,Promote a stress-free environment
+167,Elbow Dysplasia,Supplement with vitamins if needed
+168,Elbow Dysplasia,Practice good grooming habits
+169,Elbow Dysplasia,Watch for any behavioral changes
+170,Fibrosarcoma,Maintain a balanced diet
+171,Fibrosarcoma,Provide regular exercise
+172,Fibrosarcoma,Keep hydration levels optimal
+173,Fibrosarcoma,Schedule regular vet visits
+174,Fibrosarcoma,Ensure parasite prevention
+175,Fibrosarcoma,Monitor weight closely
+176,Fibrosarcoma,Promote a stress-free environment
+177,Fibrosarcoma,Supplement with vitamins if needed
+178,Fibrosarcoma,Practice good grooming habits
+179,Fibrosarcoma,Watch for any behavioral changes
+180,Flea Allergy Dermatitis,Maintain a balanced diet
+181,Flea Allergy Dermatitis,Provide regular exercise
+182,Flea Allergy Dermatitis,Keep hydration levels optimal
+183,Flea Allergy Dermatitis,Schedule regular vet visits
+184,Flea Allergy Dermatitis,Ensure parasite prevention
+185,Flea Allergy Dermatitis,Monitor weight closely
+186,Flea Allergy Dermatitis,Promote a stress-free environment
+187,Flea Allergy Dermatitis,Supplement with vitamins if needed
+188,Flea Allergy Dermatitis,Practice good grooming habits
+189,Flea Allergy Dermatitis,Watch for any behavioral changes
+190,Gastric Torsion,Maintain a balanced diet
+191,Gastric Torsion,Provide regular exercise
+192,Gastric Torsion,Keep hydration levels optimal
+193,Gastric Torsion,Schedule regular vet visits
+194,Gastric Torsion,Ensure parasite prevention
+195,Gastric Torsion,Monitor weight closely
+196,Gastric Torsion,Promote a stress-free environment
+197,Gastric Torsion,Supplement with vitamins if needed
+198,Gastric Torsion,Practice good grooming habits
+199,Gastric Torsion,Watch for any behavioral changes
+200,Gingivitis,Maintain a balanced diet
+201,Gingivitis,Provide regular exercise
+202,Gingivitis,Keep hydration levels optimal
+203,Gingivitis,Schedule regular vet visits
+204,Gingivitis,Ensure parasite prevention
+205,Gingivitis,Monitor weight closely
+206,Gingivitis,Promote a stress-free environment
+207,Gingivitis,Supplement with vitamins if needed
+208,Gingivitis,Practice good grooming habits
+209,Gingivitis,Watch for any behavioral changes
+210,Glaucoma,Maintain a balanced diet
+211,Glaucoma,Provide regular exercise
+212,Glaucoma,Keep hydration levels optimal
+213,Glaucoma,Schedule regular vet visits
+214,Glaucoma,Ensure parasite prevention
+215,Glaucoma,Monitor weight closely
+216,Glaucoma,Promote a stress-free environment
+217,Glaucoma,Supplement with vitamins if needed
+218,Glaucoma,Practice good grooming habits
+219,Glaucoma,Watch for any behavioral changes
+220,Heartworm,Maintain a balanced diet
+221,Heartworm,Provide regular exercise
+222,Heartworm,Keep hydration levels optimal
+223,Heartworm,Schedule regular vet visits
+224,Heartworm,Ensure parasite prevention
+225,Heartworm,Monitor weight closely
+226,Heartworm,Promote a stress-free environment
+227,Heartworm,Supplement with vitamins if needed
+228,Heartworm,Practice good grooming habits
+229,Heartworm,Watch for any behavioral changes
+230,Hemangiosarcoma,Maintain a balanced diet
+231,Hemangiosarcoma,Provide regular exercise
+232,Hemangiosarcoma,Keep hydration levels optimal
+233,Hemangiosarcoma,Schedule regular vet visits
+234,Hemangiosarcoma,Ensure parasite prevention
+235,Hemangiosarcoma,Monitor weight closely
+236,Hemangiosarcoma,Promote a stress-free environment
+237,Hemangiosarcoma,Supplement with vitamins if needed
+238,Hemangiosarcoma,Practice good grooming habits
+239,Hemangiosarcoma,Watch for any behavioral changes
+240,High Blood Pressure,Maintain a balanced diet
+241,High Blood Pressure,Provide regular exercise
+242,High Blood Pressure,Keep hydration levels optimal
+243,High Blood Pressure,Schedule regular vet visits
+244,High Blood Pressure,Ensure parasite prevention
+245,High Blood Pressure,Monitor weight closely
+246,High Blood Pressure,Promote a stress-free environment
+247,High Blood Pressure,Supplement with vitamins if needed
+248,High Blood Pressure,Practice good grooming habits
+249,High Blood Pressure,Watch for any behavioral changes
+250,Hip Dysplasia,Maintain a balanced diet
+251,Hip Dysplasia,Provide regular exercise
+252,Hip Dysplasia,Keep hydration levels optimal
+253,Hip Dysplasia,Schedule regular vet visits
+254,Hip Dysplasia,Ensure parasite prevention
+255,Hip Dysplasia,Monitor weight closely
+256,Hip Dysplasia,Promote a stress-free environment
+257,Hip Dysplasia,Supplement with vitamins if needed
+258,Hip Dysplasia,Practice good grooming habits
+259,Hip Dysplasia,Watch for any behavioral changes
+260,Hookworm,Maintain a balanced diet
+261,Hookworm,Provide regular exercise
+262,Hookworm,Keep hydration levels optimal
+263,Hookworm,Schedule regular vet visits
+264,Hookworm,Ensure parasite prevention
+265,Hookworm,Monitor weight closely
+266,Hookworm,Promote a stress-free environment
+267,Hookworm,Supplement with vitamins if needed
+268,Hookworm,Practice good grooming habits
+269,Hookworm,Watch for any behavioral changes
+270,Hot Spots,Maintain a balanced diet
+271,Hot Spots,Provide regular exercise
+272,Hot Spots,Keep hydration levels optimal
+273,Hot Spots,Schedule regular vet visits
+274,Hot Spots,Ensure parasite prevention
+275,Hot Spots,Monitor weight closely
+276,Hot Spots,Promote a stress-free environment
+277,Hot Spots,Supplement with vitamins if needed
+278,Hot Spots,Practice good grooming habits
+279,Hot Spots,Watch for any behavioral changes
+280,Hyperthyroidism,Maintain a balanced diet
+281,Hyperthyroidism,Provide regular exercise
+282,Hyperthyroidism,Keep hydration levels optimal
+283,Hyperthyroidism,Schedule regular vet visits
+284,Hyperthyroidism,Ensure parasite prevention
+285,Hyperthyroidism,Monitor weight closely
+286,Hyperthyroidism,Promote a stress-free environment
+287,Hyperthyroidism,Supplement with vitamins if needed
+288,Hyperthyroidism,Practice good grooming habits
+289,Hyperthyroidism,Watch for any behavioral changes
+290,Hypothyroidism,Maintain a balanced diet
+291,Hypothyroidism,Provide regular exercise
+292,Hypothyroidism,Keep hydration levels optimal
+293,Hypothyroidism,Schedule regular vet visits
+294,Hypothyroidism,Ensure parasite prevention
+295,Hypothyroidism,Monitor weight closely
+296,Hypothyroidism,Promote a stress-free environment
+297,Hypothyroidism,Supplement with vitamins if needed
+298,Hypothyroidism,Practice good grooming habits
+299,Hypothyroidism,Watch for any behavioral changes
+300,Kennel Cough,Maintain a balanced diet
+301,Kennel Cough,Provide regular exercise
+302,Kennel Cough,Keep hydration levels optimal
+303,Kennel Cough,Schedule regular vet visits
+304,Kennel Cough,Ensure parasite prevention
+305,Kennel Cough,Monitor weight closely
+306,Kennel Cough,Promote a stress-free environment
+307,Kennel Cough,Supplement with vitamins if needed
+308,Kennel Cough,Practice good grooming habits
+309,Kennel Cough,Watch for any behavioral changes
+310,Keratoconjunctivitis Sicca,Maintain a balanced diet
+311,Keratoconjunctivitis Sicca,Provide regular exercise
+312,Keratoconjunctivitis Sicca,Keep hydration levels optimal
+313,Keratoconjunctivitis Sicca,Schedule regular vet visits
+314,Keratoconjunctivitis Sicca,Ensure parasite prevention
+315,Keratoconjunctivitis Sicca,Monitor weight closely
+316,Keratoconjunctivitis Sicca,Promote a stress-free environment
+317,Keratoconjunctivitis Sicca,Supplement with vitamins if needed
+318,Keratoconjunctivitis Sicca,Practice good grooming habits
+319,Keratoconjunctivitis Sicca,Watch for any behavioral changes
+320,Liver Disease,Maintain a balanced diet
+321,Liver Disease,Provide regular exercise
+322,Liver Disease,Keep hydration levels optimal
+323,Liver Disease,Schedule regular vet visits
+324,Liver Disease,Ensure parasite prevention
+325,Liver Disease,Monitor weight closely
+326,Liver Disease,Promote a stress-free environment
+327,Liver Disease,Supplement with vitamins if needed
+328,Liver Disease,Practice good grooming habits
+329,Liver Disease,Watch for any behavioral changes
+330,Liver Shunt,Maintain a balanced diet
+331,Liver Shunt,Provide regular exercise
+332,Liver Shunt,Keep hydration levels optimal
+333,Liver Shunt,Schedule regular vet visits
+334,Liver Shunt,Ensure parasite prevention
+335,Liver Shunt,Monitor weight closely
+336,Liver Shunt,Promote a stress-free environment
+337,Liver Shunt,Supplement with vitamins if needed
+338,Liver Shunt,Practice good grooming habits
+339,Liver Shunt,Watch for any behavioral changes
+340,Lyme Disease,Maintain a balanced diet
+341,Lyme Disease,Provide regular exercise
+342,Lyme Disease,Keep hydration levels optimal
+343,Lyme Disease,Schedule regular vet visits
+344,Lyme Disease,Ensure parasite prevention
+345,Lyme Disease,Monitor weight closely
+346,Lyme Disease,Promote a stress-free environment
+347,Lyme Disease,Supplement with vitamins if needed
+348,Lyme Disease,Practice good grooming habits
+349,Lyme Disease,Watch for any behavioral changes
+350,Nuclear Sclerosis,Maintain a balanced diet
+351,Nuclear Sclerosis,Provide regular exercise
+352,Nuclear Sclerosis,Keep hydration levels optimal
+353,Nuclear Sclerosis,Schedule regular vet visits
+354,Nuclear Sclerosis,Ensure parasite prevention
+355,Nuclear Sclerosis,Monitor weight closely
+356,Nuclear Sclerosis,Promote a stress-free environment
+357,Nuclear Sclerosis,Supplement with vitamins if needed
+358,Nuclear Sclerosis,Practice good grooming habits
+359,Nuclear Sclerosis,Watch for any behavioral changes
+360,Otitis Externa,Maintain a balanced diet
+361,Otitis Externa,Provide regular exercise
+362,Otitis Externa,Keep hydration levels optimal
+363,Otitis Externa,Schedule regular vet visits
+364,Otitis Externa,Ensure parasite prevention
+365,Otitis Externa,Monitor weight closely
+366,Otitis Externa,Promote a stress-free environment
+367,Otitis Externa,Supplement with vitamins if needed
+368,Otitis Externa,Practice good grooming habits
+369,Otitis Externa,Watch for any behavioral changes
+370,Parvo,Maintain a balanced diet
+371,Parvo,Provide regular exercise
+372,Parvo,Keep hydration levels optimal
+373,Parvo,Schedule regular vet visits
+374,Parvo,Ensure parasite prevention
+375,Parvo,Monitor weight closely
+376,Parvo,Promote a stress-free environment
+377,Parvo,Supplement with vitamins if needed
+378,Parvo,Practice good grooming habits
+379,Parvo,Watch for any behavioral changes
+380,Patellar Luxation,Maintain a balanced diet
+381,Patellar Luxation,Provide regular exercise
+382,Patellar Luxation,Keep hydration levels optimal
+383,Patellar Luxation,Schedule regular vet visits
+384,Patellar Luxation,Ensure parasite prevention
+385,Patellar Luxation,Monitor weight closely
+386,Patellar Luxation,Promote a stress-free environment
+387,Patellar Luxation,Supplement with vitamins if needed
+388,Patellar Luxation,Practice good grooming habits
+389,Patellar Luxation,Watch for any behavioral changes
+390,Periodontitis,Maintain a balanced diet
+391,Periodontitis,Provide regular exercise
+392,Periodontitis,Keep hydration levels optimal
+393,Periodontitis,Schedule regular vet visits
+394,Periodontitis,Ensure parasite prevention
+395,Periodontitis,Monitor weight closely
+396,Periodontitis,Promote a stress-free environment
+397,Periodontitis,Supplement with vitamins if needed
+398,Periodontitis,Practice good grooming habits
+399,Periodontitis,Watch for any behavioral changes
+400,Periapical Abscess,Maintain a balanced diet
+401,Periapical Abscess,Provide regular exercise
+402,Periapical Abscess,Keep hydration levels optimal
+403,Periapical Abscess,Schedule regular vet visits
+404,Periapical Abscess,Ensure parasite prevention
+405,Periapical Abscess,Monitor weight closely
+406,Periapical Abscess,Promote a stress-free environment
+407,Periapical Abscess,Supplement with vitamins if needed
+408,Periapical Abscess,Practice good grooming habits
+409,Periapical Abscess,Watch for any behavioral changes
+410,Proliferating Gum Disease,Maintain a balanced diet
+411,Proliferating Gum Disease,Provide regular exercise
+412,Proliferating Gum Disease,Keep hydration levels optimal
+413,Proliferating Gum Disease,Schedule regular vet visits
+414,Proliferating Gum Disease,Ensure parasite prevention
+415,Proliferating Gum Disease,Monitor weight closely
+416,Proliferating Gum Disease,Promote a stress-free environment
+417,Proliferating Gum Disease,Supplement with vitamins if needed
+418,Proliferating Gum Disease,Practice good grooming habits
+419,Proliferating Gum Disease,Watch for any behavioral changes
+420,Pruritus,Maintain a balanced diet
+421,Pruritus,Provide regular exercise
+422,Pruritus,Keep hydration levels optimal
+423,Pruritus,Schedule regular vet visits
+424,Pruritus,Ensure parasite prevention
+425,Pruritus,Monitor weight closely
+426,Pruritus,Promote a stress-free environment
+427,Pruritus,Supplement with vitamins if needed
+428,Pruritus,Practice good grooming habits
+429,Pruritus,Watch for any behavioral changes
+430,Pyoderma,Maintain a balanced diet
+431,Pyoderma,Provide regular exercise
+432,Pyoderma,Keep hydration levels optimal
+433,Pyoderma,Schedule regular vet visits
+434,Pyoderma,Ensure parasite prevention
+435,Pyoderma,Monitor weight closely
+436,Pyoderma,Promote a stress-free environment
+437,Pyoderma,Supplement with vitamins if needed
+438,Pyoderma,Practice good grooming habits
+439,Pyoderma,Watch for any behavioral changes
+440,Rabies,Maintain a balanced diet
+441,Rabies,Provide regular exercise
+442,Rabies,Keep hydration levels optimal
+443,Rabies,Schedule regular vet visits
+444,Rabies,Ensure parasite prevention
+445,Rabies,Monitor weight closely
+446,Rabies,Promote a stress-free environment
+447,Rabies,Supplement with vitamins if needed
+448,Rabies,Practice good grooming habits
+449,Rabies,Watch for any behavioral changes
+450,Ringworm,Maintain a balanced diet
+451,Ringworm,Provide regular exercise
+452,Ringworm,Keep hydration levels optimal
+453,Ringworm,Schedule regular vet visits
+454,Ringworm,Ensure parasite prevention
+455,Ringworm,Monitor weight closely
+456,Ringworm,Promote a stress-free environment
+457,Ringworm,Supplement with vitamins if needed
+458,Ringworm,Practice good grooming habits
+459,Ringworm,Watch for any behavioral changes
+460,Roundworm,Maintain a balanced diet
+461,Roundworm,Provide regular exercise
+462,Roundworm,Keep hydration levels optimal
+463,Roundworm,Schedule regular vet visits
+464,Roundworm,Ensure parasite prevention
+465,Roundworm,Monitor weight closely
+466,Roundworm,Promote a stress-free environment
+467,Roundworm,Supplement with vitamins if needed
+468,Roundworm,Practice good grooming habits
+469,Roundworm,Watch for any behavioral changes
+470,Sarcoptic Mange,Maintain a balanced diet
+471,Sarcoptic Mange,Provide regular exercise
+472,Sarcoptic Mange,Keep hydration levels optimal
+473,Sarcoptic Mange,Schedule regular vet visits
+474,Sarcoptic Mange,Ensure parasite prevention
+475,Sarcoptic Mange,Monitor weight closely
+476,Sarcoptic Mange,Promote a stress-free environment
+477,Sarcoptic Mange,Supplement with vitamins if needed
+478,Sarcoptic Mange,Practice good grooming habits
+479,Sarcoptic Mange,Watch for any behavioral changes
+480,Sebaceous Adenitis,Maintain a balanced diet
+481,Sebaceous Adenitis,Provide regular exercise
+482,Sebaceous Adenitis,Keep hydration levels optimal
+483,Sebaceous Adenitis,Schedule regular vet visits
+484,Sebaceous Adenitis,Ensure parasite prevention
+485,Sebaceous Adenitis,Monitor weight closely
+486,Sebaceous Adenitis,Promote a stress-free environment
+487,Sebaceous Adenitis,Supplement with vitamins if needed
+488,Sebaceous Adenitis,Practice good grooming habits
+489,Sebaceous Adenitis,Watch for any behavioral changes
+490,Spondylosis,Maintain a balanced diet
+491,Spondylosis,Provide regular exercise
+492,Spondylosis,Keep hydration levels optimal
+493,Spondylosis,Schedule regular vet visits
+494,Spondylosis,Ensure parasite prevention
+495,Spondylosis,Monitor weight closely
+496,Spondylosis,Promote a stress-free environment
+497,Spondylosis,Supplement with vitamins if needed
+498,Spondylosis,Practice good grooming habits
+499,Spondylosis,Watch for any behavioral changes
+500,Tapeworm,Maintain a balanced diet
+501,Tapeworm,Provide regular exercise
+502,Tapeworm,Keep hydration levels optimal
+503,Tapeworm,Schedule regular vet visits
+504,Tapeworm,Ensure parasite prevention
+505,Tapeworm,Monitor weight closely
+506,Tapeworm,Promote a stress-free environment
+507,Tapeworm,Supplement with vitamins if needed
+508,Tapeworm,Practice good grooming habits
+509,Tapeworm,Watch for any behavioral changes
+510,Upper Respiratory Infection,Maintain a balanced diet
+511,Upper Respiratory Infection,Provide regular exercise
+512,Upper Respiratory Infection,Keep hydration levels optimal
+513,Upper Respiratory Infection,Schedule regular vet visits
+514,Upper Respiratory Infection,Ensure parasite prevention
+515,Upper Respiratory Infection,Monitor weight closely
+516,Upper Respiratory Infection,Promote a stress-free environment
+517,Upper Respiratory Infection,Supplement with vitamins if needed
+518,Upper Respiratory Infection,Practice good grooming habits
+519,Upper Respiratory Infection,Watch for any behavioral changes
+520,Vestibular Disorder,Maintain a balanced diet
+521,Vestibular Disorder,Provide regular exercise
+522,Vestibular Disorder,Keep hydration levels optimal
+523,Vestibular Disorder,Schedule regular vet visits
+524,Vestibular Disorder,Ensure parasite prevention
+525,Vestibular Disorder,Monitor weight closely
+526,Vestibular Disorder,Promote a stress-free environment
+527,Vestibular Disorder,Supplement with vitamins if needed
+528,Vestibular Disorder,Practice good grooming habits
+529,Vestibular Disorder,Watch for any behavioral changes
+530,Von Willebrand's Disease,Maintain a balanced diet
+531,Von Willebrand's Disease,Provide regular exercise
+532,Von Willebrand's Disease,Keep hydration levels optimal
+533,Von Willebrand's Disease,Schedule regular vet visits
+534,Von Willebrand's Disease,Ensure parasite prevention
+535,Von Willebrand's Disease,Monitor weight closely
+536,Von Willebrand's Disease,Promote a stress-free environment
+537,Von Willebrand's Disease,Supplement with vitamins if needed
+538,Von Willebrand's Disease,Practice good grooming habits
+539,Von Willebrand's Disease,Watch for any behavioral changes
+540,Whipworm,Maintain a balanced diet
+541,Whipworm,Provide regular exercise
+542,Whipworm,Keep hydration levels optimal
+543,Whipworm,Schedule regular vet visits
+544,Whipworm,Ensure parasite prevention
+545,Whipworm,Monitor weight closely
+546,Whipworm,Promote a stress-free environment
+547,Whipworm,Supplement with vitamins if needed
+548,Whipworm,Practice good grooming habits
+549,Whipworm,Watch for any behavioral changes

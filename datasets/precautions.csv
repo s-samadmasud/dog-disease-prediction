@@ -1,0 +1,56 @@
+,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+0,Asthma,avoid allergens,maintain healthy weight,regular exercise,consult veterinarian
+1,Alopecia,maintain hygiene,avoid allergens,regular vet check-ups,proper grooming
+2,Anemia,balanced diet,iron supplements,avoid toxins,regular vet visits
+3,Arthritis,maintain healthy weight,exercise gently,provide soft bedding,consult veterinarian
+4,Cancer,regular check-ups,balanced diet,early detection,follow treatment plan
+5,Carnassial Tooth Abscess,maintain oral hygiene,regular dental check-ups,provide dental chews,consult vet if swelling
+6,Cataracts,regular eye exams,control blood sugar,protect eyes from injuries,consult veterinary ophthalmologist
+7,Cherry Eye,maintain eye hygiene,avoid irritants,regular vet check-ups,surgical correction if needed
+8,Coccidia,maintain clean environment,proper sanitation,regular deworming,consult vet
+9,Congestive Heart Failure,low-salt diet,regular medication,moderate exercise,monitor breathing
+10,Dandruff,proper grooming,hydrating diet,regular baths with medicated shampoo,consult vet
+11,Degenerative Myelopathy,regular exercise,physical therapy,maintain healthy weight,assistive devices
+12,Demodectic Mange,maintain hygiene,avoid stress,proper nutrition,consult vet for treatment
+13,Ear Infection,keep ears dry,regular cleaning,avoid allergens,consult vet
+14,Ear Mites,regular ear checks,maintain hygiene,treat all pets in household,consult vet
+15,Ehrlichiosis,prevent tick exposure,use tick preventatives,early diagnosis,consult vet
+16,Elbow Dysplasia,maintain healthy weight,controlled exercise,physical therapy,consult orthopedic vet
+17,Fibrosarcoma,early detection,regular vet check-ups,follow treatment plan,consult specialist
+18,Flea Allergy Dermatitis,regular flea control,avoid allergens,medicated baths,consult vet
+19,Gastric Torsion,avoid large meals,limit exercise after meals,feed smaller meals,consult vet
+20,Gingivitis,regular dental care,dental chews,professional cleanings,proper diet
+21,Glaucoma,regular eye exams,control intraocular pressure,administer prescribed drops,consult veterinary ophthalmologist
+22,Heartworm,preventative medication,avoid mosquito exposure,regular testing,consult vet
+23,Hemangiosarcoma,early detection,regular vet visits,monitor for symptoms,consult oncologist
+24,High Blood Pressure,low-sodium diet,regular blood pressure checks,stress reduction,medication adherence
+25,Hip Dysplasia,maintain healthy weight,controlled exercise,physical therapy,consult orthopedic vet
+26,Hookworm,regular deworming,clean environment,prevent fecal contamination,consult vet
+27,Hot Spots,maintain hygiene,prevent licking,special shampoos,consult vet
+28,Hyperthyroidism,regular vet check-ups,proper medication,balanced diet,monitor symptoms
+29,Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep
+30,Kennel Cough,avoid exposure,proper vaccination,isolate infected pets,consult vet
+31,Keratoconjunctivitis Sicca,administer eye medications,regular eye cleaning,avoid irritants,consult vet
+32,Liver Disease,low-protein diet,avoid toxins,regular monitoring,consult vet
+33,Liver Shunt,low-protein diet,monitor ammonia levels,regular vet check-ups,consider surgery
+34,Lyme Disease,prevent tick exposure,early treatment,regular vet check-ups,use tick preventatives
+35,Nuclear Sclerosis,regular eye exams,monitor vision changes,provide good lighting,consult vet
+36,Otitis Externa,keep ears dry,regular cleaning,avoid allergens,consult vet
+37,Parvo,vaccination,avoid contact with infected dogs,disinfect environment,consult vet immediately
+38,Patellar Luxation,maintain healthy weight,controlled exercise,consider surgery,consult orthopedic vet
+39,Periodontitis,regular dental care,dental chews,professional cleaning,proper diet
+40,Periapical Abscess,maintain oral hygiene,regular dental exams,monitor for swelling,consult vet
+41,Proliferating Gum Disease,regular dental care,dental chews,professional cleaning,monitor oral health
+42,Pruritus,avoid allergens,regular bathing,anti-itch medication,consult vet
+43,Pyoderma,maintain hygiene,antibacterial baths,avoid allergens,consult vet
+44,Rabies,vaccination,avoid contact with wild animals,report bites immediately,consult vet
+45,Ringworm,maintain hygiene,disinfect environment,isolate infected pets,consult vet
+46,Roundworm,regular deworming,clean environment,prevent fecal contamination,consult vet
+47,Sarcoptic Mange,maintain hygiene,treat all pets in household,proper medication,consult vet
+48,Sebaceous Adenitis,regular grooming,moisturizing treatments,proper diet,consult vet
+49,Spondylosis,controlled exercise,physical therapy,maintain healthy weight,consult vet
+50,Tapeworm,regular deworming,prevent flea infestation,clean environment,consult vet
+51,Upper Respiratory Infection,proper vaccination,limit exposure to infected pets,good hygiene,consult vet
+52,Vestibular Disorder,restrict movement,assist walking,keep environment safe,consult vet
+53,Von Willebrand's Disease,avoid injury,regular vet check-ups,blood transfusions if needed,consult vet
+54,Whipworm,regular deworming,clean environment,prevent fecal contamination,consult vet
